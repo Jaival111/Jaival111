@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaival111
 - 👀 I’m interested in coding(python, c++)
 - 🌱 I’m currently learning Artificial Intelligence
-- 📫 How to reach me on Linked In through www.linkedin.com/in/jaival-chauhan/
+- 📫 How to reach me through Linked In: www.linkedin.com/in/jaival-chauhan/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love gaming in free time
 
