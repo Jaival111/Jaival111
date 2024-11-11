@@ -1,4 +1,4 @@
-# Hi there, I'm Jaival Chauhan 👋
+# 👋 Hi there, I'm Jaival Chauhan.
 
 ## About Me
 
