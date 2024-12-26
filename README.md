@@ -13,7 +13,7 @@ I'm a sophomore at **NIT Surat** studying **Artificial Intelligence** 🤖. I lo
 - 🐍 Python
 - 💻 C++
 - 🌐 HTML, CSS, JavaScript
-- 📊 Data Science & Machine Learning (using libraries like **Pandas**, **Numpy**, etc.)
+- 📊 Data Science & Machine Learning
   
 ### Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jaivalchauhan?theme=transparent)
