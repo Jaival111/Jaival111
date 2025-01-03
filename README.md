@@ -21,15 +21,11 @@ I'm a sophomore at **NIT Surat** studying **Artificial Intelligence** 🤖. I lo
 ### CodeForces
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Jaival175)
 
-<!-- ### Projects:
+### Projects:
 Here are some of the projects I've worked on recently:
-- [Project Name](Link to your project) – Description of the project.
-- [Project Name](Link to your project) – Description of the project.
-- [Project Name](Link to your project) – Description of the project.
-
-## 📝 Blog Posts
-- [Blog Title](Link to your blog) – Summary of your blog post.
-- [Blog Title](Link to your blog) – Summary of your blog post. -->
+- [Google Meet Panic Button](https://github.com/Jaival111/Google-Meet-Panic-Button.git) – An innovative Google Meet Panic Button designed for swift action during unexpected situations.
+- [Gesture Controlled Virtual Keyboard](https://github.com/Jaival111/Gesture-Based-Virtual-Keyboard.git) – Developed a virtual keyboard using computer vision and OpenCV, enabling seamless typing through precise hand gesture detection for enhanced accessibility and interaction.
+- [Gesture Controlled System](https://github.com/THE-DEEPDAS/Gesture-Control-Suite.git) – Developed a Gesture-Based Computer Control System with PPT navigation and a Virtual Keyboard, enabling hands-free interaction and efficiency through real-time gesture recognition.
 
 ## Let's Connect!
 
