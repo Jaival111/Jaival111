@@ -1,39 +1,43 @@
-# 👋 Hi there, I'm Jaival Chauhan.
+# Hi there!, I'm Jaival.
 
-## About me
+<strong><em>Artificial Intelligence Major.<br>
+Junior at NIT Surat, India.</em></strong>
 
-I'm a sophomore at **NIT Surat** studying **Artificial Intelligence** 🤖. I love **coding**, solving problems, and building projects that make an impact! My main programming languages are **Python** and **C++**, but I enjoy learning new languages and technologies as well.
 
-- 🌱 I’m currently learning **AI** and **Machine Learning**.
-- 📫 How to reach me: [contactjaival@gmail.com](mailto:contactjaival@gmail.com)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=00599C)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![HTML](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&color=E34F26)
+![CSS](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&color=1572B6)
 
-## Skills
+![Machine Learning](https://img.shields.io/badge/ML-Scikit--learn-informational?style=flat&logo=scikit-learn&color=F7931E)
+![Deep Learning](https://img.shields.io/badge/DL-TensorFlow-informational?style=flat&logo=tensorflow&color=FF6F00)
 
-### Languages & Tools:
-- 🐍 Python
-- 💻 C++
-- 🌐 HTML, CSS, JavaScript
-- 📊 Data Science & Machine Learning
-  
+![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-informational?style=flat&logo=fastapi&color=009688)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
+![Render](https://img.shields.io/badge/Deployment-Render-informational?style=flat&logo=render&color=46E3B7)
+
+
 ### Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jaivalchauhan?theme=transparent)
+
 
 ### CodeForces
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Jaival175)
 
-### Projects:
-Here are some of the projects I've worked on recently:
-- [Google Meet Panic Button](https://github.com/Jaival111/Google-Meet-Panic-Button.git) – An innovative Google Meet Panic Button designed for swift action during unexpected situations.
-- [Gesture Controlled Virtual Keyboard](https://github.com/Jaival111/Gesture-Based-Virtual-Keyboard.git) – Developed a virtual keyboard using computer vision and OpenCV, enabling seamless typing through precise hand gesture detection for enhanced accessibility and interaction.
-- [Gesture Controlled System](https://github.com/THE-DEEPDAS/Gesture-Control-Suite.git) – Developed a Gesture-Based Computer Control System with PPT navigation and a Virtual Keyboard, enabling hands-free interaction and efficiency through real-time gesture recognition.
 
-## Let's Connect!
 
-- LinkedIn: [Jaival Chauhan](https://www.linkedin.com/in/jaival-chauhan/)
-- GitHub: [Jaival111](https://github.com/Jaival111)
-- Leetcode: [jaivalchauhan](https://leetcode.com/u/jaivalchauhan/)
-- CodeForces: [Jaival175](https://codeforces.com/profile/Jaival175)
-- Instagram: [me_jaival](https://www.instagram.com/me_jaival)
+### Let's Connect!
 
-Thanks for visiting my profile! 😊
+[![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&color=181717)](https://github.com/Jaival111)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/jaival-chauhan)
+[![Instagram](https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&color=E4405F)](https://www.instagram.com/me_jaival)
 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-informational?style=flat&logo=leetcode&color=FFA116)](https://leetcode.com/jaivalchauhan)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-informational?style=flat&logo=codeforces&color=1F8ACB)](https://codeforces.com/profile/Jaival175)
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
