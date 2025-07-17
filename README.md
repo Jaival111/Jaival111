@@ -18,7 +18,7 @@ Junior at NIT Surat, India.</em></strong>
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
 ![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-![Render](https://img.shields.io/badge/Deployment-Render-informational?style=flat&logo=render&color=46E3B7)
+![Railway](https://img.shields.io/badge/Deployment-Railway-informational?style=flat&logo=railway&color=0B0D0E)
 
 
 ### Leetcode
