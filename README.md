@@ -34,7 +34,7 @@ Junior at NIT Surat, India.</em></strong>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&color=181717)](https://github.com/Jaival111)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/jaival-chauhan)
-[![Instagram](https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&color=E4405F)](https://www.instagram.com/me_jaival)
+[![Instagram](https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&color=E4405F)](https://www.instagram.com/joyval_)
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-informational?style=flat&logo=leetcode&color=FFA116)](https://leetcode.com/jaivalchauhan)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-informational?style=flat&logo=codeforces&color=1F8ACB)](https://codeforces.com/profile/Jaival175)
