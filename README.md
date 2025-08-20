@@ -2,7 +2,7 @@
 
 <strong><em>Artificial Intelligence Major.<br>
 Junior at NIT Surat, India.<br>
-Intern at L&T Technology Services.</em></strong>
+AI Intern at L&T Technology Services.</em></strong>
 
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
@@ -22,13 +22,14 @@ Intern at L&T Technology Services.</em></strong>
 ![Railway](https://img.shields.io/badge/Deployment-Railway-informational?style=flat&logo=railway&color=0B0D0E)
 
 
-### Leetcode
+### My Recent Project - A stealth startup you can say;)
+SubSense - An App Subscription Management Tool. This app helps you manage your susbcriptions by recommending you whether you should retain or keep the subscription based on your usage.<br>
+Linked In Post: [here](https://www.linkedin.com/posts/jaival-chauhan_subsense-mentalaccountingbias-subscriptionfatigue-activity-7349954470203523073-rheg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUPjHMBduDt_LjTs343xGkQW20Os1CszdY)<br>
+GitHub repo: [here](https://github.com/Jaival111/SubSense)
+
+
+### Leetcode Stats!
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jaivalchauhan?theme=transparent)
-
-
-### CodeForces
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Jaival175)
-
 
 
 ### Let's Connect!
