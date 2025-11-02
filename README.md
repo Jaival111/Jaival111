@@ -2,7 +2,7 @@
 
 <strong><em>Artificial Intelligence Major.<br>
 Junior at NIT Surat, India.<br>
-AI Intern at L&T Technology Services.</em></strong>
+Former AI Intern at L&T Technology Services.</em></strong>
 
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
